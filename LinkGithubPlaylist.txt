@@ -1,1 +1,6 @@
-https://raw.githubusercontent.com/jlllf/Drake/refs/heads/main/GordoshPlayList.m3u?token=GHSAT0AAAAAADLCQD4SERRSXYXRF3XY4R642GHX5FQ
+https://raw.githubusercontent.com/jlllf/Gordosh/5a763ffc36b736765b1af7fb4a0a22550b76be77/GordoshPlayList.m3u
+
+https://raw.githubusercontent.com/jlllf/Gordosh/main/GordoshPlayList.m3u
+
+https://raw.githubusercontent.com/jlllf/Gordosh/main/PlaylistXXX.m3u
+
