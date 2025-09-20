@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",Playboy
-http://143.0.67.77:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="-",Venus
-http://143.0.67.77:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="-",Sextreme
-http://143.0.67.77:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/150px-Canal_Venus_logo_%282%29.svg.png" group-title="XXX",Venus
+http://181.78.202.249:8002/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/150px-Canal_Venus_logo_%282%29.svg.png" group-title="XXX",Venus
+http://181.78.202.249:8002/play/a0h4/index.m3u8
+#EXTINF:-1 tvg-id="Venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/150px-Canal_Venus_logo_%282%29.svg.png" group-title="XXX",Venus
+http://190.52.105.146:8000/play/a0in/index.m3u8
+
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/320px-Play_Boy_TV_logo.svg.png" group-title="XXX",Playboy
+http://190.52.105.146:8000/play/a0fx/index.m3u8
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/320px-Play_Boy_TV_logo.svg.png" group-title="XXX",Playboy
+http://181.78.202.249:8002/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="Sextreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX",Sextreme
+http://181.78.202.249:8002/play/a06a/index.m3u8
+
+
